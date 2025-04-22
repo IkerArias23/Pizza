@@ -175,4 +175,4 @@ java -jar target/ejercicio-practico-1.0-SNAPSHOT.jar
 
 ## Autor
 
-Desarrollado para el curso de Técnicas de Programación.
+Iker Arias Aragón
